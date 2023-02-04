@@ -1,7 +1,7 @@
 {
 	"author": "Taylor Lo",
 	"description": "I love FreeCodeCamp",
-	"keywords": ["Free", "Code", "Camp"],
+	"keywords": ["freecodecamp", "WTF", "Testing"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
