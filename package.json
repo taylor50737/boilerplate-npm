@@ -2,6 +2,7 @@
 	"author": "Taylor Lo",
 	"description": "I love FreeCodeCamp",
 	"keywords": ["freecodecamp", "WTF", "Testing"],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
